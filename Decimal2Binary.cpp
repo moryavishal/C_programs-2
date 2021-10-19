@@ -12,6 +12,6 @@ int main()
 		p=p*10;
 		n=n/2;
 	}
-	printf("%d binary equivalent is %d",m,s);
+	printf("%d binary equivalent =  %d",m,s);
 	return 0;
 }
